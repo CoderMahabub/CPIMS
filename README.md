@@ -1,1 +1,1 @@
-# CPMS
+# CPMS - Car Parts Management System is a management system where admin can manage parts information with various options. Admin can add new parts, delete,edit or update that in a while as well as admin can do everything.
